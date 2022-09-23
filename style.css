@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    height: 50vh;
+}
+.lottie{
+    background-color: whitesmoke;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: bounce; 
+    animation-duration: 2s; 
+  }
